@@ -1,2 +1,2 @@
-# Expensvetracker
-Expense tracker 
+# expense tracker
+expense tracker
